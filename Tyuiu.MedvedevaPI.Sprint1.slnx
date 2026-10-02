@@ -9,4 +9,14 @@
     <Project Path="Tyuiu.MedvedevaPI.Sprint1.Task1.V25.Test/Tyuiu.MedvedevaPI.Sprint1.Task1.V25.Test.csproj" Id="db3fd333-11cc-433c-a192-bc1bbb811243" />
     <Project Path="Tyuiu.MedvedevaPI.Sprint1.Task1.V25/Tyuiu.MedvedevaPI.Sprint1.Task1.V25.csproj" Id="65c16c45-6664-4d18-a920-f416a010acad" />
   </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.MedvedevaPI.Sprint1.Task2.V19.Lib/Tyuiu.MedvedevaPI.Sprint1.Task2.V19.Lib.csproj" Id="e8ae6457-a7b1-446b-afb9-7a2583389ff7" />
+    <Project Path="Tyuiu.MedvedevaPI.Sprint1.Task2.V19.Test;/Tyuiu.MedvedevaPI.Sprint1.Task2.V19.Test;.csproj" Id="afc91050-09ab-4a62-a2eb-301751020c6a" />
+    <Project Path="Tyuiu.MedvedevaPI.Sprint1.Task2.V19/Tyuiu.MedvedevaPI.Sprint1.Task2.V19.csproj" Id="db9981a5-d39d-4dea-8cd2-aca7fc02cddc" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.MedvedevaPI.Sprint1.Task3.V3.Lib/Tyuiu.MedvedevaPI.Sprint1.Task3.V3.Lib.csproj" Id="2e08dd8d-743b-402c-a960-889a00ad0baf" />
+    <Project Path="Tyuiu.MedvedevaPI.Sprint1.Task3.V3.Test/Tyuiu.MedvedevaPI.Sprint1.Task3.V3.Test.csproj" Id="743c0a0c-6152-4f08-abce-30ce0e70f9b1" />
+    <Project Path="Tyuiu.MedvedevaPI.Sprint1.Task3.V3/Tyuiu.MedvedevaPI.Sprint1.Task3.V3.csproj" Id="5605efc0-0e2b-48ef-b0e1-304dd2b62025" />
+  </Folder>
 </Solution>

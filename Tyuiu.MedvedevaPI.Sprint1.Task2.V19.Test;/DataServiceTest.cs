@@ -8,9 +8,8 @@ public sealed class DataServiceTest
     public void ValidExpression()
     {
         DataService ds = new DataService();
-        int value = 100;
-        double expected = 2.54;
-        double actual = ds.ConvertInchToKm(value);
-        Assert.AreEqual(expected, actual);
+        int x = 1;
+        var res = ds.ConvertInchToKm(x);
+        Assert.AreEqual(0.0000254, res);
     }
 }

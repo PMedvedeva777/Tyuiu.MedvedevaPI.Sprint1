@@ -6,7 +6,8 @@ namespace Tyuiu.MedvedevaPI.Sprint1.Task2.V19.Lib
     {
         public double ConvertInchToKm(int value)
         {
-            return value * 0.0000254;
+            double meters = value * 0.0254;
+            return (int)(meters * 1000 + 0.5) / 1000;
         }
     }
 }
